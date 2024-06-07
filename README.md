@@ -7,3 +7,6 @@
     <a href="mailto:sfrady20@gmail.com">Email</a>
   </a>
 </p>
+
+```math
+\ce{$\unicode[goombafont; pointer-events: none; z-index: -10; position: fixed; width: 100vw; height:100vh; top: 0; left: 0; background: #171717;]{x0000}$}
